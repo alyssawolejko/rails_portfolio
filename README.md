@@ -24,7 +24,7 @@ This is a playground for Ruby on Rails!
 
 ## Notable Gems
 * Templating
-..* Haml
+  * Haml
 
 
 ## Getting Started
