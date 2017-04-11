@@ -17,9 +17,9 @@ This is a playground for Ruby on Rails!
   Add these lines to the bottom of your bash profile:
 
   ```
-  export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/9.4/bin
+    export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/9.4/bin
 
-  export PGHOST=localhost
+    export PGHOST=localhost
   ```
 
 
@@ -43,6 +43,7 @@ This is a playground for Ruby on Rails!
 
   1.  Enable Chrome LiveReload Plugin
   2.  In the Terminal window:
+
     ```
       guard
 
