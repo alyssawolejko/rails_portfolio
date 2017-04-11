@@ -42,9 +42,4 @@ This is a playground for Ruby on Rails!
   To enable live reload in Chrome (open a new tab in Terminal):
 
   1.  Enable Chrome LiveReload Plugin
-  2.  In the Terminal window:
-
-    ```
-      guard
-
-    ```
+  2.  In the Terminal window: `guard`
