@@ -22,7 +22,9 @@ This is a playground for Ruby on Rails!
     export PGHOST=localhost
   ```
 
-
+## Notable Gems
+* Templating
+..* Haml
 
 
 ## Getting Started
