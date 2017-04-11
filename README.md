@@ -24,8 +24,14 @@ This is a playground for Ruby on Rails!
 
 ## Notable Gems
 * Templating
-  * Haml
-
+  * haml
+* Stylesheets
+  * sass-rails
+* Authentication
+  * devise (authentication)
+  * cancan (user roles)
+* Development
+  * guard-livereload (run with Chrome plugin)
 
 ## Getting Started
 
