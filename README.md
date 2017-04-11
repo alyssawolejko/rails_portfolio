@@ -28,6 +28,14 @@ This is a playground for Ruby on Rails!
 ## Getting Started
 
 ### Terminal: Basic Setup
+  Install the gems
+  ```
+    bundle install
+  ```
+  Run DB Migrations
+  ```
+    rake db:migrate
+  ```
   Start the rails server
   ```
     rails s
